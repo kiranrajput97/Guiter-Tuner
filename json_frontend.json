@@ -1,0 +1,60 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "guitar tuner",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "customIntent",
+                    "slots": [],
+                    "samples": [
+                        "start guitar tunar",
+                        "open guitar tuner",
+                        "give me a high g",
+                        "give me a high f",
+                        "give me a high e",
+                        "give me a high d",
+                        "give me a high c",
+                        "give me a high b",
+                        "give me a high a",
+                        "give me a low g",
+                        "give me a low f",
+                        "give me a low e",
+                        "give me a low d ",
+                        "give me a low c",
+                        "give me a low b",
+                        "give me a low a"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
